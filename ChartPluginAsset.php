@@ -17,7 +17,7 @@ use yii\web\AssetBundle;
 class ChartPluginAsset extends AssetBundle
 {
 
-    public $sourcePath = '@vendor/juratitov/yii2-morrisjs-widget/assets';
+    public $sourcePath = '@vendor/mazurva/yii2-morrisjs-widget/assets';
 
     public $depends = [
         'yii\web\YiiAsset',
